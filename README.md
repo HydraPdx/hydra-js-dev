@@ -4,9 +4,6 @@
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/481783822342553601.png" alt="Discord" /> </p>
-
-
 
 
 
@@ -18,7 +15,6 @@
 
 I am a passionate self-taught programmer from Nepal and my hobby is to code.
  - 🌱 I’m currently learning Python
-- 💬 Ask me about anything [here](https://discord.gg/5PvBYxPgQS)
 - 🥅 2021 Goals: make some awesome Discord Bots
 
 **Languages and Tools:** &nbsp;
