@@ -1,5 +1,5 @@
 ### Hi there, I'm hydra-js! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=legend-js-dev" alt="yus" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hydra618" alt="yus" /> </p>
 <p align='center'> <a href="https://discord.gg/5PvBYxPgQS">
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
