@@ -1,6 +1,6 @@
-### Hi there, I'm hydra-js! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hydra618" alt="yus" /> </p>
-<p align='center'> <a href="https://discord.gg/5PvBYxPgQS">
+### Hi there, I'm RachaelSmith1!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RachaelSmith1" alt="ee" /> </p>
+<p align='center'> <a href="https://discord.gg/bx7H4q5p">
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
 
@@ -11,7 +11,7 @@
  
 <br />
 
-### Hey i'm hydra-js Gald to see you here! &nbsp;
+### Hey i'm RachaelSmith1 good to see you here! &nbsp;
 
 I am a passionate self-taught programmer from Nepal and my hobby is to code.
  - 🌱 I’m currently learning Python
@@ -33,4 +33,4 @@ I am a passionate self-taught programmer from Nepal and my hobby is to code.
  
  
 
-#### have a great day/night.
+#### I thank-you for checking me out!
