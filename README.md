@@ -28,8 +28,8 @@ I am a passionate self-taught programmer from Nepal and my hobby is to code.
  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legend-js-dev&show_icons=true&layout=compact&hide_border=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=legend-js-dev&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydra618&show_icons=true&layout=compact&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hydra618&show_icons=true&theme=dark&line_height=21" alt="Hydra' github stats"/>
  
  
 
