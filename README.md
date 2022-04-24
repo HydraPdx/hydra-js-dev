@@ -13,7 +13,7 @@
 
 ### Hey i'm hydra-js Gald to see you here! &nbsp;
 
-I am a passionate self-taught programmer from Nepal and my hobby is to code.
+I am a passionate self-taught programmer from India and my hobby is to code.
  - 🌱 I’m currently learning Python
 - 🥅 2021 Goals: make some awesome Discord Bots
 
